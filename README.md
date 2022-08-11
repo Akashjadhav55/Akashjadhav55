@@ -56,7 +56,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - :zap: In my free time, I read tech articals.
 
 - :mailbox: reach me: [![Linkedin Badge](https://img.shields.io/badge/-akash-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/akashjadhav55)
-- 📫 How to reach me **akashjadhav704010@gmail.com**
+- 📫 reach me **akashjadhav704010@gmail.com**
 
 
 
