@@ -3,17 +3,32 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="your-linkedin-URL">
+  <a href="www.linkedin.com/in/akashjadhav55">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="your-youtube-URL">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="your-twitter-URL">
+  <a href="https://twitter.com/Akashjadhav55">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
 
+ <div align="center">
+   <a href="https://hashnode.com/@akashjadhav55" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@akashjadhav55" height="30" width="40" </a>
+<a href="https://medium.com/@akashjadhav55" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@akashjadhav55" height="30" width="40" /></a>
+     </div>
+
+
+<h1 align="center">Hi there! I'm Akash Jadhav<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+ <br>
+
+
+  
+  
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Currently+Learning+Full-Stack+Web+Development;Open-Source+Developer;Nice+to+meet+you...)](https://git.io/typing-svg)
+        
+  <br>
 
 
 
@@ -34,24 +49,25 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 
 
+:telescope:  I'm pursuing a Full Stack Web Development course at Masai School. Building scalable and performant Webapps with JavaScript. 
 
-:telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :seedling: Exploring new technologies 
 
-- :seedling: Exploring Technical Content Writing.
+- :zap: In my free time, I read tech articals.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
-
-
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-akash-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/akashjadhav55)
+- 📫 How to reach me **akashjadhav704010@gmail.com**
 
 
 
 
 
-### :hammer_and_wrench: Languages and Tools :
+
+
+
+<h2><i>Tech Stack <img src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" width="35"/></i></h2>
+
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
@@ -69,17 +85,24 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 </div>
 
 
+  
+  <h2> :fire: My Stats :</h2>
+<br/>
 
+<div>
+  <img width="50%"  src="https://github-readme-stats.vercel.app/api?username=akashjadhav55&show_icons=true&theme=dark" />
+  <img width="49%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashjadhav55&layout=compact&theme=dark" />
+</div>
+  
 
-### :fire: My Stats :
+  
+<br />
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=akashjadhav55&theme=dark" alt=""/></p>
+<p align="center" ><img src="https://github-profile-trophy.vercel.app/?username=akashjadhav55sh2377&theme=dark" alt=""/> </p>
+<p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akashjadhav55&theme=vue" alt="summarycard"/> </p>
+<hr />  
 
-
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Akashjadhav55&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akashjadhav55)](https://github.com/anuraghazra/github-readme-stats)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akashjadhav55&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-### :writing_hand: Blog Posts :
+<h3 align="center"> 
+  Visitor count <br>
+  <img src="https://profile-counter.glitch.me/akashjadhav55/count.svg" />
+</h3>
