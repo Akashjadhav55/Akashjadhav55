@@ -90,16 +90,16 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <br/>
 
 <div>
-  <img width="50%"  src="https://github-readme-stats.vercel.app/api?username=akashjadhav55&show_icons=true&theme=dark" />
-  <img width="49%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashjadhav55&layout=compact&theme=dark" />
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akram3598786&show_icons=true&locale=en&layout=compact" alt="akram3598786" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akram3598786&show_icons=true&locale=en" alt="akram3598786" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akram3598786&" alt="akram3598786" /></p>
+<p align="center" ><img align="center" src="https://github-profile-trophy.vercel.app/?username=akram3598786&" alt="akram3598786"/> </p>
 </div>
   
 
   
-<br />
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=akashjadhav55&theme=dark" alt=""/></p>
-<p align="center" ><img src="https://github-profile-trophy.vercel.app/?username=akashjadhav55sh2377&theme=dark" alt=""/> </p>
-<p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akashjadhav55&theme=vue" alt="summarycard"/> </p>
+
 <hr />  
 
 <h3 align="center"> 
