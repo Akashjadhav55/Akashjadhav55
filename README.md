@@ -48,8 +48,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 
 
-
-:telescope:  I'm pursuing a Full Stack Web Development course at Masai School. Building scalable and performant Webapps with JavaScript. 
+ 
 
 - :seedling: Exploring new technologies 
 
