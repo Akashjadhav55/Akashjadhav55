@@ -104,13 +104,13 @@
 </p>
 
 <p align="left" >
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SaurabhSinghRbz&theme=chartreuse-dark"  />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Akashjadhav55&theme=chartreuse-dark"  />
 </p>
  
 <p>
-<a href="https://github.com/SaurabhSinghRbz"><span>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SaurabhSinghRbz&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi"/>
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=SaurabhSinghRbz&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="400px"/>
+<a href="https://github.com/Akashjadhav55"><span>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Akashjadhav55&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Akashjadhav55&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="400px"/>
 </span></a> </p>
 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/>
@@ -118,16 +118,14 @@
 <hr clear="both">
  <br/>
 <p align="center">
-<a href="https://github.com/SaurabhSinghRbz"><span>
-<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SaurabhSinghRbz&theme=dracula" />
+<a href="https://github.com/Akashjadhav55"><span>
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Akashjadhav55&theme=dracula" />
 </span></a> </p>
 
  <br/>
 <!-- GitHub Cup's   -->
- <p align="center" ><img src="https://github-profile-trophy.vercel.app/?username=SaurabhSinghRbz&theme=vue" alt=""/> </p>
+ <p align="center" ><img src="https://github-profile-trophy.vercel.app/?username=Akashjadhav55&theme=vue" alt=""/> </p>
  
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SaurabhSinghRbz&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)
-
 <hr clear="both">
 
 <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right' height=180px width="300px"/>
@@ -140,7 +138,7 @@
 
 ![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/bottom_header.svg)
 
-
+<!-- 
   
   <h2> :fire: My Stats :</h2>
 <br/>
@@ -162,3 +160,4 @@
   Visitor count <br>
   <img src="https://profile-counter.glitch.me/akashjadhav55/count.svg" />
 </h3>
+ -->
