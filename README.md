@@ -1,4 +1,4 @@
-<<img src ="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" align="right" width="300" height="300" />
+<img src ="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" align="right" width="300" height="300" />
 
 <h1 align="left" >Hey there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Akash Jadhav </h1>
 
@@ -26,19 +26,19 @@
 
 <p>
    <a href="https://twitter.com/Akashjadhav55">
-    <img align="left" src="https://raw.githubusercontent.com/Akashjadhav55/Akashjadhav55/d771c0033d84cd92249b979a33f5ef2b0921a974/Images/twitter.svg" width="32px"  />
+    <img align="left" src="https://raw.githubusercontent.com/SaurabhSinghRbz/SaurabhSinghRbz/d771c0033d84cd92249b979a33f5ef2b0921a974/Images/twitter.svg" width="32px"  />
   </a>
   <a href="mailto:akashjadhav704010@gmail.com">
-    <img align="left" src="https://github.com/Akashjadhav55/Akashjadhav55/blob/master/Images/mail.png?raw=true" width="32px"  />
+    <img align="left" src="https://github.com/SaurabhSinghRbz/SaurabhSinghRbz/blob/master/Images/mail.png?raw=true" width="32px"  />
   </a>
   <a href="https://www.linkedin.com/in/Akashjadhav55/">
-    <img align="left" src="https://raw.githubusercontent.com/Akashjadhav55/Akashjadhav55/1049140a71903d67104b4395ec1e24837ea2cece/Images/linked-in-alt.svg" width="28px" />
+    <img align="left" src="https://raw.githubusercontent.com/SaurabhSinghRbz/SaurabhSinghRbz/1049140a71903d67104b4395ec1e24837ea2cece/Images/linked-in-alt.svg" width="28px" />
   </a>
    <a href="https://hashnode.com/@Akashjadhav55">
-    <img align="left" src="https://github.com/Akashjadhav55/Akashjadhav55/blob/master/Images/hashnode.png" width="32px"  />
+    <img align="left" src="https://github.com/SaurabhSinghRbz/SaurabhSinghRbz/blob/master/Images/hashnode.png" width="32px"  />
   </a>
    <a href="">
-    <img align="left" src="https://github.com/Akashjadhav55/Akashjadhav55/blob/master/Images/portfolio.png" width="35px"  />
+    <img align="left" src="https://github.com/SaurabhSinghRbz/SaurabhSinghRbz/blob/master/Images/portfolio.png" width="35px"  />
   </a>
   
 </p>
