@@ -1,6 +1,6 @@
 <<img src ="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" align="right" width="300" height="300" />
 
-<h1 align="left" >Hey there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Saurabh Singh </h1>
+<h1 align="left" >Hey there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Akash Jadhav </h1>
 
 <h3><samp><strong>You have finally discovered my Github profile. Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better.</strong></samp></h3> 
 <h3><i>Happy Coding!</i> 😊</h3>
@@ -12,7 +12,6 @@
 
 - 🤔 I use daily `.js`,` .css`, `.html`
 - 🛠 I’m currently learning about **MERN**🥰<br>
-- 🔥 I use to write code on **[leetcode](https://leetcode.com/SaurabhSinghRbz/)** <br>
 - 🌱 I’m looking to collaborate on: **Contribute more to Open Source projects.**
 - ⚡ I’m looking for help with anything **I am currently learning! 😅**.
 - 💬 Ask me about anything, I am happy to help, **only if the ball is in my court!😉**<br>
@@ -26,28 +25,25 @@
 <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70px">
 
 <p>
-   <a href="https://twitter.com/Saurabh162000">
-    <img align="left" src="https://raw.githubusercontent.com/SaurabhSinghRbz/SaurabhSinghRbz/d771c0033d84cd92249b979a33f5ef2b0921a974/Images/twitter.svg" width="32px"  />
+   <a href="https://twitter.com/Akashjadhav55">
+    <img align="left" src="https://raw.githubusercontent.com/Akashjadhav55/Akashjadhav55/d771c0033d84cd92249b979a33f5ef2b0921a974/Images/twitter.svg" width="32px"  />
   </a>
-  <a href="mailto:singhsaurabh1622000@gmail.com">
-    <img align="left" src="https://github.com/SaurabhSinghRbz/SaurabhSinghRbz/blob/master/Images/mail.png?raw=true" width="32px"  />
+  <a href="mailto:akashjadhav704010@gmail.com">
+    <img align="left" src="https://github.com/Akashjadhav55/Akashjadhav55/blob/master/Images/mail.png?raw=true" width="32px"  />
   </a>
-  <a href="https://www.linkedin.com/in/saurabh-singh-rbz1602/">
-    <img align="left" src="https://raw.githubusercontent.com/SaurabhSinghRbz/SaurabhSinghRbz/1049140a71903d67104b4395ec1e24837ea2cece/Images/linked-in-alt.svg" width="28px" />
+  <a href="https://www.linkedin.com/in/Akashjadhav55/">
+    <img align="left" src="https://raw.githubusercontent.com/Akashjadhav55/Akashjadhav55/1049140a71903d67104b4395ec1e24837ea2cece/Images/linked-in-alt.svg" width="28px" />
   </a>
-  <a href="https://leetcode.com/SinghSaurabh1602/">
-    <img align="left" src="https://github.com/SaurabhSinghRbz/SaurabhSinghRbz/blob/master/Images/leetcode.png?raw=true" width="24px"  />
+   <a href="https://hashnode.com/@Akashjadhav55">
+    <img align="left" src="https://github.com/Akashjadhav55/Akashjadhav55/blob/master/Images/hashnode.png" width="32px"  />
   </a>
-   <a href="https://hashnode.com/@Saurabh1602">
-    <img align="left" src="https://github.com/SaurabhSinghRbz/SaurabhSinghRbz/blob/master/Images/hashnode.png" width="32px"  />
-  </a>
-   <a href="https://singhsaurabh.vercel.app/">
-    <img align="left" src="https://github.com/SaurabhSinghRbz/SaurabhSinghRbz/blob/master/Images/portfolio.png" width="35px"  />
+   <a href="">
+    <img align="left" src="https://github.com/Akashjadhav55/Akashjadhav55/blob/master/Images/portfolio.png" width="35px"  />
   </a>
   
 </p>
 
-<img src ="https://github.com/SaurabhSinghRbz/SaurabhSinghRbz/blob/master/Images/imhd.gif?raw=true" align="right" width="260" height="260" />
+<img src ="https://github.com/Akashjadhav55/Akashjadhav55/blob/master/Images/imhd.gif?raw=true" align="right" width="260" height="260" />
 
 <br>
 <br>
