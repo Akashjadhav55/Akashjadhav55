@@ -2,7 +2,10 @@
 
 <h1 align="left" >Hey there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Akash Jadhav </h1>
 
-<h3><samp><strong>You have finally discovered my Github profile. Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better.</strong></samp></h3> 
+<h3><samp><strong>
+<!--  You have finally discovered my Github profile. Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. -->
+ I am a Versatilist and Full Stack Web Developer 🌐 and I love to code and build user-friendly websites & I love exploring new tech stack 💻
+ </strong></samp></h3> 
 <h3><i>Happy Coding!</i> 😊</h3>
 <hr>
 
