@@ -34,9 +34,9 @@
   <a href="mailto:akashjadhav704010@gmail.com">
     <img align="left" src="https://github.com/SaurabhSinghRbz/SaurabhSinghRbz/blob/master/Images/mail.png?raw=true" width="32px"  />
   </a>
-  
+  <a href ="">
     <img align="left" src="https://raw.githubusercontent.com/SaurabhSinghRbz/SaurabhSinghRbz/1049140a71903d67104b4395ec1e24837ea2cece/Images/linked-in-alt.svg" width="28px" />
-
+</a>
    <a href="https://hashnode.com/@Akashjadhav55">
     <img align="left" src="https://github.com/SaurabhSinghRbz/SaurabhSinghRbz/blob/master/Images/hashnode.png" width="32px"  />
   </a>
